@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="demo:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdff85e3-f040-4de7-bb52-bea408ac22b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SetCookieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/demo3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text/src/main/java/CalcServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text/src/main/java/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text/src/main/java/MyRequestServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text/src/main/java/RefreshServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text/src/main/webapp/calc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work1/src/main/java/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 03/src/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 03/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 10/src/AVG.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 10/src/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 10/src/PrintArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 10/src/SUM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 10/src/Transform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 11/src/TwoNumSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 12/src/ShuZuNiXu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 13/src/ArrayAverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 13/src/ArrayMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 13/src/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 13/src/CopyOfArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 13/src/MyToString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 13/src/TwoDimensionalArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 17/src/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 17/src/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 17/src/CopyOf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 17/src/ToString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 17/src/WellAligned.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 19/src/ZhengShuFanZhuan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 20/src/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 21/src/RomanToInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 22/src/LongestCommonPrefix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 23/src/IsValid1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 24/src/RemoveDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 25/src/RemoveElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 26/src/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 26/src/Exercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 26/src/HasStatic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 26/src/MyApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 26/src/Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 26/src/Pvf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 26/src/Swap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 26/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 26/src/TestDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 26/src/Transform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 28/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 29/src/StrStr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 3/Semaphore/BoundedBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 3/Semaphore/Buffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 3/Semaphore/BufferCanvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 3/Semaphore/C=D;O=A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 3/Semaphore/C=M;O=A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 3/Semaphore/C=N;O=D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 3/Semaphore/C=S;O=A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 3/Semaphore/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 3/Semaphore/DisplayPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 3/Semaphore/DisplayThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 3/Semaphore/HelpFrame$WindowEventHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 3/Semaphore/HelpFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 3/Semaphore/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 3/Semaphore/Semaphore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 3/Semaphore/semaphore.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 30/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 30/src/MyArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 31/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 31/src/MyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 6/src/Age.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 6/src/BINXuLi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 6/src/ChengFaKouJueBiao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 6/src/FenShuZhi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 6/src/GuessNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 6/src/IntegerBit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 6/src/LeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 6/src/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 6/src/MaxGongYueShu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 6/src/Nine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 6/src/PrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 6/src/ShuiXianHua.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 6/src/TheNumberOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 6/src/X.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 8/src/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 8/src/Fac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 8/src/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 8/src/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 8/src/Max.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 8/src/Odd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 9/src/ADD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 9/src/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 9/src/Fib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 9/src/Frog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 9/src/Hanoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 9/src/MAX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 9/src/MajorityElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 9/src/Print.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 9/src/SUM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 9/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020 12 9/src/Sum2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 17/src/Rotate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 17/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 17/src/ToLowerCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 18/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 18/src/book/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 18/src/book/BookList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 18/src/operation/AddOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 18/src/operation/BorrowOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 18/src/operation/DelOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 18/src/operation/DisplayOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 18/src/operation/ExitOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 18/src/operation/FindOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 18/src/operation/IOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 18/src/operation/RemoveOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 18/src/operation/ReturnOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 18/src/user/AdminUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 18/src/user/NormalUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 18/src/user/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 19/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 19/src/TestDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 20/src/LengthOfLastWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 20/src/Merge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 20/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 21/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 21/src/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 21/src/Test3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 25/src/MyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 27/src/AddBinary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 28/src/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 29/src/IsPalindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 29/src/MyArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 29/src/MyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 29/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 1 31/src/FindUnsortedSubarray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 2 2/src/CarFleet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 2 2/src/ShellSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 2 2/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 2 3/src/FindClosestElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021 2 3/src/Test.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\H\.m2\repository" />
+        <option name="userSettingsFile" value="C:\Users\H\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qZ7S2Kzc7TTFSUxybrjoYgq4i5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.64" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/demo_war/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="demo:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/demo_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_demo" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58695" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="demo:war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdff85e3-f040-4de7-bb52-bea408ac22b4" name="Default Changelist" comment="" />
+      <created>1617275254578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617275254578</updated>
+      <workItem from="1617275257742" duration="3085000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="90" key="#Inspections" timestamp="1617275702545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="90" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1617275702545" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617276292542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1617276292542" />
+    <state width="1024" height="210" key="GridCell.Tab.0.bottom" timestamp="1617279333986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617279333986" />
+    <state width="1024" height="210" key="GridCell.Tab.0.center" timestamp="1617279333986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617279333986" />
+    <state width="1024" height="210" key="GridCell.Tab.0.left" timestamp="1617279333986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617279333986" />
+    <state width="1024" height="210" key="GridCell.Tab.0.right" timestamp="1617279333986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617279333986" />
+    <state width="1024" height="210" key="GridCell.Tab.1.bottom" timestamp="1617279333986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617279333986" />
+    <state width="1024" height="210" key="GridCell.Tab.1.center" timestamp="1617279333986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1617279333986" />
+    <state width="1024" height="210" key="GridCell.Tab.1.left" timestamp="1617279333986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1617279333986" />
+    <state width="1024" height="210" key="GridCell.Tab.1.right" timestamp="1617279333986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1617279333986" />
+    <state width="1024" height="210" key="GridCell.Tab.2.bottom" timestamp="1617279333986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617279333986" />
+    <state width="1024" height="210" key="GridCell.Tab.2.center" timestamp="1617279333986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1617279333986" />
+    <state width="1024" height="210" key="GridCell.Tab.2.left" timestamp="1617279333986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1617279333986" />
+    <state width="1024" height="210" key="GridCell.Tab.2.right" timestamp="1617279333986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1617279333986" />
+    <state x="178" y="72" key="new project wizard" timestamp="1617278991337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="72" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1617278991337" />
+  </component>
+</project>

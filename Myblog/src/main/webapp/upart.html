@@ -37,7 +37,7 @@
                 "title": title.val(),
                 "content": content.val()
             }, function (data) {
-                if (data != null && data.succ == 1) {
+                if (data != null && data.succ === 1) {
                     alert("恭喜：修改成功！");
                     location.href = "myartlist.html";
                 } else {

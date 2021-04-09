@@ -1,7 +1,7 @@
 package services;
 
 import dao.ArticleInfoDao;
-import models.ArticleInfo;
+import models.vo.ArticleInfoVO;
 import utils.ResultJSONUtils;
 
 import javax.servlet.ServletException;
@@ -25,7 +25,7 @@ public class InitServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         int succ = -1; // succ=1 表示操作成功
         String msg = ""; // 错误说明信息
-        ArticleInfo articleInfo = null;
+        ArticleInfoVO articleInfo = null;
         // 1.从前端获取参数
         int id = Integer.parseInt(req.getParameter("id"));
         // 2.调用数据库执行相应的业务逻辑

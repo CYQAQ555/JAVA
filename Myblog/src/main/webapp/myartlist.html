@@ -5,6 +5,17 @@
     <title>我的文章列表</title>
     <script src="jquery-1.9.1.min.js"></script>
     <script>
+        // 时间格式化
+        function datefm(timespan) {
+            var date = new Date(timespan);
+            // 年份
+            var y = date.getFullYear();
+            // 月份
+            var m = date.getMonth() + 1;
+            // 日期
+            var d = date.getDate();
+            return y + "-" + m + "-" + d;
+        }
 
         // 文章删除
         function mydel(id) {
@@ -39,7 +50,7 @@
                         article.title + "                \n" +
                         "            </td>\n" +
                         "            <td>\n" +
-                        article.createtime + "                \n" +
+                        datefm(article.createtime) + "        \n" +
                         "            </td>\n" +
                         "            <td>\n" +
                         article.rcount + "                \n" +
